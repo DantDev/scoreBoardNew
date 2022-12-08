@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home--title{
+    color: white;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 1px;
+    margin-bottom: 35px;
+}
+
+.guest--title{
+    color: white;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 1px;
+    margin-bottom: 35px;
+}
+
+.number1{
+    display: flex;
+    align-items : center;
+    justify-content : center ;
+    margin: 0;
+    align-self: center ;
+    font-family: 'Cursed Timer ULiL';
+    font-size: 90px;
+    background: black;
+    color: #F94F6D;
+    width: 155px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+.number2{
+    display: flex;
+    align-items : center;
+    justify-content : center ;
+    margin: 0;
+    align-self: center ;
+    font-family: 'Cursed Timer ULiL';
+    font-size: 90px;
+    background: black;
+    color: #F94F6D;
+    width: 155px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+button{
+    font-family: 'Cursed Timer ULiL';
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 25px;
+    margin-left: 4px;
+    width: 45px;
+    height: 45px;
+    color: #9AABD8;
+    background: none;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+}
+
+.zero{
+    width: 80px;
+    margin-top: 220px;
+}
